@@ -1,3 +1,4 @@
+先在控制台输入 npm i
 <<<<<<< HEAD
 # scmb_front
 
